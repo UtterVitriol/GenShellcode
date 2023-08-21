@@ -1,4 +1,5 @@
 // https://dennisbabkin.com/blog/?t=how-to-implement-getprocaddress-in-shellcode
+// https://www.codeproject.com/Articles/5304605/Creating-Shellcode-from-any-Code-Using-Visual-Stud
 #include <Windows.h>
 
 #if _WIN64
